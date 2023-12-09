@@ -1,0 +1,10 @@
+# Dossier générés automatiquement 
+/.vscode/
+/.idea/
+/.DS_Store/
+
+# Fichier sensible
+*.data
+*.dev
+*.user
+*.env
