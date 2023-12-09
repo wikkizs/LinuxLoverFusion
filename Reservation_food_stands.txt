@@ -1,0 +1,48 @@
+Voici la liste des stands de nourriture réservés pour le festival :
+
+- Shake Shack
+
+- Mugaritz
+
+- Festi-Crêpes
+
+- Grill'Miam
+
+- Fäviken
+
+- Croq'Express
+
+Découvrez l'ensemble des menus lors de l'événement.
+
+
+Voici le plan festival du Linux-Lover-Fusion :
+
+
+                                      Main Stage
+                                         |
+                                  _______|_______
+                                 |             |
+                                / \           / \
+                               /   \         /   \
+                              /     \       /     \
+                       ______/_______\_____/_______\______
+                      |          Mugaritz           |
+                  ____|____________|_______________|_____
+                 |   |             |               |    |
+                 |___|_________    |   Shake       |    |
+                     |         |   |   Shack       |    |
+             ________|_________|   |_______________|    |
+            |                     |   |                 |
+   _________|______           ____|___|______          |
+  |  Grill' Miam   |         |    Festi-     |         |
+  |________________|         |    Crêpes     |         |
+    |            |           |______________|         |
+  __|____    ____|____           |    |                 |
+ | Cafe  |  |   Pub    |          |____|                 |
+ |______|  |__________|             |___________________|
+    |            |                 |               |
+  __|____    ____|____           __|___        ____|____
+ | Croq' |  | Stand  |         |  Hotel  |      |  Park |
+ |Express|  | In-Out |         |_________|      |______|
+ |_______|  |________|
+
